@@ -9,6 +9,8 @@ hr {
     border-color: grey;
     border-width: 5px;
     width: 6%;
+
+    margin: 0 auto;
 }
 
 h1 {
