@@ -19,3 +19,9 @@ h1 {
 h3 {
     color: #3bb4c1;
 }
+
+#avatarPicture {
+    /* box-sizing: content-box; */
+    width: 180px;
+    height: 180px;
+}
