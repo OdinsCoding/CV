@@ -29,6 +29,7 @@ h3 {
 table {
     border-collapse: collapse;
     table-layout: auto;
+    width: 100%;
 }
 
 
@@ -42,21 +43,18 @@ td {
 
 .educationTable {
     background-color: #8fe1ebce;
-    width: 100%;
     text-align: center;
     border: 1px solid black;
 }
 
 .workExperienceTable {
     background-color: #8fe1ebce;
-    width: 100%;
     text-align: center;
     border: 1px solid black;
 }
 
 .skillsTable {
     background-color: #8fe1ebce;
-    width: 100%;
     text-align: center;
     border: 1px solid black;
 
