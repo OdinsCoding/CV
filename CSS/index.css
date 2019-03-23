@@ -26,13 +26,7 @@ h3 {
     height: 180px;
 }
 
-.educationTable {
-    background-color: #8fe1ebce;
-    width: 100%;
-    text-align: center;
-    border: 1px solid black;
-    border-collapse: collapse;
-}
+
 
 th,
 td {
@@ -40,6 +34,14 @@ td {
 }
 
 /* Other styles */
+
+.educationTable {
+    background-color: #8fe1ebce;
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 
 .workExperienceTable {
     background-color: #8fe1ebce;
