@@ -1,16 +1,14 @@
+/* Overall styles */
 body {
     background-color: #fdfeff;
 }
 
 hr {
-    /* background-color: white; */
     border-style: none;
     border-top-style: dotted;
     border-color: grey;
     border-width: 5px;
     width: 6%;
-
-    margin: 0 auto;
 }
 
 h1 {
@@ -20,10 +18,48 @@ h1 {
 
 h3 {
     color: #3bb4c1;
+    text-decoration: underline black;
 }
 
 #avatarPicture {
-    /* box-sizing: content-box; */
     width: 180px;
     height: 180px;
+}
+
+.educationTable {
+    background-color: #8fe1ebce;
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+/* Other styles */
+
+.workExperienceTable {
+    background-color: #8fe1ebce;
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.skillsTable {
+    background-color: #8fe1ebce;
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+tr.educationTR {
+    border-bottom: 1px solid black;
+}
+
+tr.workExperienceTR {
+    border-bottom: 1px solid black;
 }
